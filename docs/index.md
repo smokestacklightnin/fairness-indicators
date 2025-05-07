@@ -53,7 +53,7 @@ options {
 
 <div class="grid cards" markdown>
 
--   ![asdf](https://www.tensorflow.org/static/responsible_ai/fairness_indicators/images/mlpracticum_480.png)
+-   ![ML Practicum: Fairness in Perspective API using Fairness Indicators](https://www.tensorflow.org/static/responsible_ai/fairness_indicators/images/mlpracticum_480.png)
 
     ### [ML Practicum: Fairness in Perspective API using Fairness Indicators](https://developers.google.com/machine-learning/practica/fairness-indicators?utm_source=github&utm_medium=github&utm_campaign=fi-practicum&utm_term=&utm_content=repo-body)
 
@@ -61,7 +61,7 @@ options {
 
     [Try the Case Study](https://developers.google.com/machine-learning/practica/fairness-indicators?utm_source=github&utm_medium=github&utm_campaign=fi-practicum&utm_term=&utm_content=repo-body)
 
--   ![Fairness Indicators on the TensorFlow blog](../images/tf_full_color_primary_icon.svg)
+-   ![Fairness Indicators on the TensorFlow blog](images/tf_full_color_primary_icon.svg)
 
     ### [Fairness Indicators on the TensorFlow blog](https://blog.tensorflow.org/2019/12/fairness-indicators-fair-ML-systems.html)
     
@@ -83,7 +83,7 @@ options {
 
     [Read on Google AI blog](https://ai.googleblog.com/2019/12/fairness-indicators-scalable.html)
 
--   ![type:video](https://www.youtube.com/watch?v=6CwzDoE8J4M)
+-   <iframe width="560" height="315" src="https://www.youtube.com/embed/6CwzDoE8J4M?si=gIL2KHdj96_SxdVH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     ### [Fairness Indicators at Google I/O](https://www.youtube.com/watch?v=6CwzDoE8J4M)
 
